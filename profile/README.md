@@ -4,7 +4,7 @@
 
 扫一扫关注我们！
 
-<img src="https://github.com/EL-CL/.github/raw/main/profile/rqb_website_link.png" alt="https://www.ranqibin.com/" style="zoom: 30%;" />
+<img src="https://github.com/EL-CL/.github/raw/main/profile/rqb_website_link.png" alt="https://www.ranqibin.com/" width="100" height="100" />
 
 ##### 实验室
 
