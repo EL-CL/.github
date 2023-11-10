@@ -2,9 +2,9 @@
 
 “语言实验与计算”团队是语言学研究者[冉启斌主页 (nankai.edu.cn)](https://wxy.nankai.edu.cn/2019/1106/c18394a245671/page.htm)及其博士后、研究生等组成的科研小组。团队主要从事语言实验、语音计算、语言理论等方面的研究。目前成员包括教授 1 人，助教 1 人，博士后 2 人、在读博士 10 人、硕士 3 人。欢迎广大有志于从事本团队学科领域的本科生、硕士、博士加盟，热烈欢迎国内外专家、学者的访问、交流与合作。
 
-<!-- 扫一扫关注我们！
+扫一扫关注我们！
 
-![IMG_9898](/Users/may/Documents/typora/IMG_9898.PNG) -->
+<img src="./rqb_website_link.png" alt="https://www.ranqibin.com/" style="zoom: 30%;" />
 
 ##### 实验室
 
@@ -42,8 +42,8 @@
 - 科研项目
   - 国家社科基金重大项目，中国境内语言核心词汇声学数据库及计算研究，19ZDA300，2019-2024
 - 学术网站
-  - 语言实验与计算——语言实验与计算共享资源汇集，津 ICP 备 16002255-2 号，网址：[www.ranqibin.com](http://www.ranqibin.com/)
-  - 口音汉语在线——世界典型汉语语音偏误数据库，津 ICP 备 16002255-1 号，网址：[www.globalaccentchinese.com](http://www.globalaccentchinese.com/)
+  - 语言实验与计算——语言实验与计算共享资源汇集，津 ICP 备 16002255-2 号，网址：[www.ranqibin.com](https://www.ranqibin.com/)
+  - 口音汉语在线——世界典型汉语语音偏误数据库，津 ICP 备 16002255-1 号，网址：[www.globalaccentchinese.com](https://www.globalaccentchinese.com/)
 - 近 3 年代表性论文、专著
   1. 冉启斌 2020，基于词汇声学距离的语言计算分类实验，《民族语文》第 3 期，50-60 页。
   2. 冉启斌 2020，嗓音的南北差异与汉语声调产生的地域先后，《语言研究》第 4 期，46-53 页。
