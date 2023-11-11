@@ -6,11 +6,11 @@
 
 <img src="https://github.com/EL-CL/.github/raw/main/profile/rqb_website_link.png" alt="https://www.ranqibin.com/" width="100" height="100" />
 
-##### 实验室
+#### 实验室
 
 依托天津市社会科学实验室——南开大学语言实验与计算交叉科学实验室。
 
-##### 团队研究方向
+#### 团队研究方向
 
 - 机器学习与语言研究
 
@@ -37,7 +37,7 @@
   - 学习者语音分类
   - 学习者语音评分
 
-##### 主要研究成果
+#### 主要研究成果
 
 - 科研项目
   - 国家社科基金重大项目，中国境内语言核心词汇声学数据库及计算研究，19ZDA300，2019-2024
@@ -61,7 +61,7 @@
   14. Liang, Yuzhu（梁煜珠）, Lining Wang（王莉宁）, Søren Wichmann, Quansheng Xia（夏全胜）, Shuai Wang（王帅）, Jun Ding（丁俊）, Tianheng Wang（王天恒）, and \*Qibin Ran（冉启斌）. (2023). Languages in China link climate, voice quality, and tone in a causal chain. Humanities and Social Sciences Communications10, Article number: 453 (2023).
   15. 黄玮、冉启斌（2023）基于朴素贝叶斯分类器的古诗词作者争议检测，《文学与文化》第 3 期，95-104 页。
 
-##### 团队成员介绍
+#### 团队成员介绍
 
 - `团队负责人`冉启斌
 
@@ -94,5 +94,3 @@
 - `硕士`吴梦锜致
 
 - `硕士`苑舒婷
-
-#####
