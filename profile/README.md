@@ -1,43 +1,34 @@
 ## 💬EL&CL: Experimental Linguistics and Computational Linguistics
 
-“语言实验与计算”团队是语言学研究者[冉启斌主页 (nankai.edu.cn)](https://wxy.nankai.edu.cn/2019/1106/c18394a245671/page.htm)及其博士后、研究生等组成的科研小组。团队主要从事语言实验、语音计算、语言理论等方面的研究。目前成员包括教授 1 人，助教 1 人，博士后 2 人、在读博士 10 人、硕士 3 人。欢迎广大有志于从事本团队学科领域的本科生、硕士、博士加盟，热烈欢迎国内外专家、学者的访问、交流与合作。
+“语言实验与计算”团队是语言学研究者[冉启斌](https://wxy.nankai.edu.cn/2019/1106/c18394a245671/page.htm)及其博士后、研究生等组成的科研小组。团队主要从事语言实验、语音计算、语言理论等方面的研究。目前成员包括教授 1 人，助教 1 人，博士后 2 人、在读博士 10 人、硕士 3 人。欢迎广大有志于从事本团队学科领域的本科生、硕士、博士加盟，热烈欢迎国内外专家、学者的访问、交流与合作。
 
 扫一扫关注我们！
 
-<img src="https://github.com/EL-CL/.github/raw/main/profile/rqb_website_link.png" alt="https://www.ranqibin.com/" width="100" height="100" />
+[<img src="https://github.com/EL-CL/.github/raw/main/profile/rqb_website_link.png" alt="https://www.ranqibin.com/" width="100" height="100" />](https://www.ranqibin.com/)
 
-#### 实验室
+### 实验室
 
 依托天津市社会科学实验室——南开大学语言实验与计算交叉科学实验室。
 
-#### 团队研究方向
+### 团队研究方向
 
 - 机器学习与语言研究
-
   - 语音识别相关技术：说话人识别、语种识别（包括方言识别）、学习者语音分类及评分，此外还涉及病理语音分类等其他分类项目。
-
   - 语音合成及数字人技术
-
 - 自然语言处理与语言研究
-
   - 动名词差异
   - 语音合成技术评估
-
 - 语言与自然环境关系
-
 - 语言本体研究
-
   - 语言距离、相似度计算
   - 语言分类、演化树构拟
   - 大规模语言数据库
-
 - 二语习得研究
-
-  - 口音汉语研究（相关成果已发表于网站[口音汉语在线（GAC） (globalaccentchinese.com)](https://www.globalaccentchinese.com/)）
+  - 口音汉语研究（相关成果已发表于网站[口音汉语在线（GAC）(globalaccentchinese.com)](https://www.globalaccentchinese.com/)）
   - 学习者语音分类
   - 学习者语音评分
 
-#### 主要研究成果
+### 主要研究成果
 
 - 科研项目
   - 国家社科基金重大项目，中国境内语言核心词汇声学数据库及计算研究，19ZDA300，2019-2024
@@ -53,44 +44,44 @@
   6. 冉启斌、丁俊、原新梅、赵建军（2022）语言距离与地理距离的复杂性——以辽宁境内的胶辽官话与东北官话为例，《南开语言学刊》第 1 期，137-147 页。
   7. 冉启斌、许可、梁煜珠（2022）正反义词存在音义关联吗？——基于 100 种语言各 20 对正反义词数据库的分析，《中国语文》第 6 期，752-765 页。
   8. 冉启斌、于爽、史晴琳（2022）唐汪话声调问题的声学分析，《南开语言学刊》第 2 期，90-101 页。
-  9. 冉启斌（2023）变化速度与构拟评估——基于汉语语档历时相似度计算的考察，Journal of Chinese Linguistics, 51(1): 52-72, https://muse.jhu.edu/pub/250/article/868360/pdf.
+  9. 冉启斌（2023）变化速度与构拟评估——基于汉语语档历时相似度计算的考察，_Journal of Chinese Linguistics_, 51(1): 52-72. https://doi.org/10.1353/jcl.2023.0007
   10. 夏全胜、高凯、冉启斌（2023）汉语动名兼类词做名词和动词时的声学语音差异，《语言教学与研究》第 2 期，42-53 页。
-  11. Ran, Qibin, Kai Gao, Yuzhu Liang, Quansheng Xia, Soeren Wichmann (2023) Phonetic differences between nouns and verbs in their typical syntactic positions in a tonal language: Evidence from disyllabic noun–verb ambiguous words in Standard Mandarin Chinese, Journal of Phonetics, 98:101241.
+  11. Qibin Ran (冉启斌), Kai Gao (高凯), Yuzhu Liang (梁煜珠), Quansheng Xia (夏全胜), and Soeren Wichmann. (2023). Phonetic differences between nouns and verbs in their typical syntactic positions in a tonal language: Evidence from disyllabic noun–verb ambiguous words in Standard Mandarin Chinese, _Journal of Phonetics_, 98: 101241. https://doi.org/10.1016/j.wocn.2023.101241
   12. 冉启斌、丁俊（2023）汉语方言的相似度与差异——基于 ASJP 模式语言距离计算的考察，《语文研究》第 2 期，17-26 页。
   13. 冉启斌、王帅（2023）内部差异与外部关联——中国民族语言 592 个语档的相似度计算分析，《民族语文》第 3 期，3-16 页。
-  14. Liang, Yuzhu（梁煜珠）, Lining Wang（王莉宁）, Søren Wichmann, Quansheng Xia（夏全胜）, Shuai Wang（王帅）, Jun Ding（丁俊）, Tianheng Wang（王天恒）, and \*Qibin Ran（冉启斌）. (2023). Languages in China link climate, voice quality, and tone in a causal chain. Humanities and Social Sciences Communications10, Article number: 453 (2023).
+  14. Yuzhu Liang (梁煜珠), Lining Wang (王莉宁), Søren Wichmann, Quansheng Xia (夏全胜), Shuai Wang (王帅), Jun Ding (丁俊), Tianheng Wang (王天恒), and Qibin Ran (冉启斌). (2023). Languages in China link climate, voice quality, and tone in a causal chain. _Humanities and Social Sciences Communications_, 10: 453. https://doi.org/10.1057/s41599-023-01969-4
   15. 黄玮、冉启斌（2023）基于朴素贝叶斯分类器的古诗词作者争议检测，《文学与文化》第 3 期，95-104 页。
 
-#### 团队成员介绍
+### 团队成员介绍
 
-- `团队负责人`冉启斌
+- `团队负责人` 冉启斌
 
-  博士，南开大学文学院教授，博士生导师。中国语言学会语音学分会副主任委员（2020-），中国民族语言学会汉藏语言文化专业委员会副主任委员（2021-），天津市语言学会会长（2023-），《民族语文》编委（2022-），《南开语言学刊》主编，“中国语言资源保护工程”专家委员会青年工作组成员，中国语言资源保护工程濒危语言志（民族语言）编委，Researching and Teaching Chinese as a Foreign Language（《汉语研究与教学》）编委（2022-），中国语言学会理事（2022-），中国民族语言学会理事（2022-），国际中国语言学学会理事（2023-）。曾为美国加州大学伯克利分校访问学者，南开大学汉语言文化学院副院长，北京语言资源高精尖创新中心特聘研究员（2017-2020）。主要从事语音学、语音计算、语言理论等研究，发表语言学有关的学术论文及文章 90 余篇，出版学术专著 5 部（含合著），主编教材 1 部，论文集 1 部。主持国家社科基金重大项目、国家社科基金一般项目、国家社科基金青年项目、科技部高端外国专家引进计划项目、国家社科基金重大项目子课题、教育部哲学社会科学后期资助（重大）项目、国家语委重点项目、中国语言资源保护中心专项项目、北京语言资源高精尖创新中心项目子课题等 10 余项。入选天津市“131”创新型人才培养工程第三层次（2013），南开大学百名青年学科带头人团队项目参与人（2017），天津市“131”创新型人才团队项目参与人（2018）。获得教育部人文社科优秀成果二等奖（第二作者）、天津市社会科学优秀成果二等奖等奖项；获得专利 1 项。主持微信公众号“语言实验与计算”，建立学术网站 2 个（“语言实验与计算”共享资源网：[www.ranqibin.com](http://www.ranqibin.com/)；“口音汉语在线——世界典型汉语语音偏误数据库”：[www.globalaccentchinese.com](http://www.globalaccentchinese.com/)）。
+  博士，南开大学文学院教授，博士生导师。中国语言学会语音学分会副主任委员（2020-），中国民族语言学会汉藏语言文化专业委员会副主任委员（2021-），天津市语言学会会长（2023-），《民族语文》编委（2022-），《南开语言学刊》主编，“中国语言资源保护工程”专家委员会青年工作组成员，中国语言资源保护工程濒危语言志（民族语言）编委，_Researching and Teaching Chinese as a Foreign Language_（《汉语研究与教学》）编委（2022-），中国语言学会理事（2022-），中国民族语言学会理事（2022-），国际中国语言学学会理事（2023-）。曾为美国加州大学伯克利分校访问学者，南开大学汉语言文化学院副院长，北京语言资源高精尖创新中心特聘研究员（2017-2020）。主要从事语音学、语音计算、语言理论等研究，发表语言学有关的学术论文及文章 90 余篇，出版学术专著 5 部（含合著），主编教材 1 部，论文集 1 部。主持国家社科基金重大项目、国家社科基金一般项目、国家社科基金青年项目、科技部高端外国专家引进计划项目、国家社科基金重大项目子课题、教育部哲学社会科学后期资助（重大）项目、国家语委重点项目、中国语言资源保护中心专项项目、北京语言资源高精尖创新中心项目子课题等 10 余项。入选天津市“131”创新型人才培养工程第三层次（2013），南开大学百名青年学科带头人团队项目参与人（2017），天津市“131”创新型人才团队项目参与人（2018）。获得教育部人文社科优秀成果二等奖（第二作者）、天津市社会科学优秀成果二等奖等奖项；获得专利 1 项。主持微信公众号“语言实验与计算”，建立学术网站 2 个（“语言实验与计算”共享资源网：[www.ranqibin.com](http://www.ranqibin.com/)；“口音汉语在线——世界典型汉语语音偏误数据库”：[www.globalaccentchinese.com](http://www.globalaccentchinese.com/)）。
 
-- `博士后`林珈亦
+- `博士后` 林珈亦
 
-- `博士后`陆旭
+- `博士后` 陆旭
 
-- `博士`梁煜珠
+- `博士` 梁煜珠
 
-- `博士`丁俊
+- `博士` 丁俊
 
-- `博士`王帅
+- `博士` 王帅
 
-- `博士`萨沙
+- `博士` 萨沙
 
-- `博士`王天恒
+- `博士` 王天恒
 
-- `博士`夏美汐
+- `博士` 夏美汐
 
-- `博士`许可
+- `博士` 许可
 
-- `博士`穆汉
+- `博士` 穆汉
 
-- `博士`黄玮
+- `博士` 黄玮
 
-- `硕士`段嘉华
+- `硕士` 段嘉华
 
-- `硕士`吴梦锜致
+- `硕士` 吴梦锜致
 
-- `硕士`苑舒婷
+- `硕士` 苑舒婷
